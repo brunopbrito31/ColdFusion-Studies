@@ -1,0 +1,5 @@
+<cfset nome = "Bruno">
+
+<cfoutput>
+    #nome#
+</cfoutput>
